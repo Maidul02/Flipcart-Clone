@@ -14,12 +14,8 @@
     border: 2px solid white;
     border-radius: 7px;
     cursor: pointer;
-    font-family: 'Lato', sans-serif;
-
 }
 
 .btn:hover{
-    font-weight: bold;
-    
-
+    font-weight: bolder;
 }
